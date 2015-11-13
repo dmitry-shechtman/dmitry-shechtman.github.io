@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AsyncActivator class">
+    <HelpKINode Title="AsyncActivator Class" Url="html/a0d22d67-ec48-2755-a1d4-3cce05477b43.htm" />
+    <HelpKINode Title="about AsyncActivator class" Url="html/a0d22d67-ec48-2755-a1d4-3cce05477b43.htm" />
+    <HelpKINode Title="methods" Url="html/d5167396-f071-c077-580a-2c24b6d36803.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncActivator.CreateAsync method" Url="html/a384c895-1b53-3ee2-be46-cd18009a9b96.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T) class">
+    <HelpKINode Title="AsyncInitBase(T) Class" Url="html/4b294ef0-9d81-0e81-f774-afc857c6d308.htm" />
+    <HelpKINode Title="about AsyncInitBase(Of T) class" Url="html/4b294ef0-9d81-0e81-f774-afc857c6d308.htm" />
+    <HelpKINode Title="constructor" Url="html/ae1d53cb-c6a4-451e-2054-bafe030f19e1.htm" />
+    <HelpKINode Title="methods" Url="html/9d9a0865-b2a9-846c-cf86-869ae2a9a77c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase(Of T).AsyncInitBase constructor" Url="html/ae1d53cb-c6a4-451e-2054-bafe030f19e1.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T).CreateAsync method" Url="html/4a400fa3-4ffe-d5f4-1620-78e50e5c96d3.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T).InitAsync method" Url="html/bc44e038-9598-8967-54b1-cb78710f281d.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg) class">
+    <HelpKINode Title="AsyncInitBase(T, TArg) Class" Url="html/8a1f3300-cd81-ba77-237c-54c89f1ce6fc.htm" />
+    <HelpKINode Title="about AsyncInitBase(Of T, TArg) class" Url="html/8a1f3300-cd81-ba77-237c-54c89f1ce6fc.htm" />
+    <HelpKINode Title="constructor" Url="html/550d043c-7eaf-885d-d749-e0012c78be4a.htm" />
+    <HelpKINode Title="methods" Url="html/b4e7b0ae-703a-0d48-a6a9-454f49c9c561.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase(Of T, TArg).AsyncInitBase constructor" Url="html/550d043c-7eaf-885d-d749-e0012c78be4a.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg).CreateAsync method" Url="html/91820cfb-2088-c5bd-3c31-5bfaade48326.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg).InitAsync method" Url="html/4aff3e81-499e-f8ae-4310-2771806518e0.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2) class">
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2) Class" Url="html/2c231b5b-d15d-0239-7dc3-4745cfad2aee.htm" />
+    <HelpKINode Title="about AsyncInitBase(Of T, TArg1, TArg2) class" Url="html/2c231b5b-d15d-0239-7dc3-4745cfad2aee.htm" />
+    <HelpKINode Title="constructor" Url="html/843463b3-db88-9988-4a25-f85848f8a870.htm" />
+    <HelpKINode Title="methods" Url="html/94f3c3bc-bcf8-195c-b39a-b22671ed9cb6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2).AsyncInitBase constructor" Url="html/843463b3-db88-9988-4a25-f85848f8a870.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2).CreateAsync method" Url="html/76ea8397-fab4-85a7-ef79-86edb5d8853a.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2).InitAsync method" Url="html/f24dda3c-8ea1-9c17-0077-206a78fb3447.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3) class">
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3) Class" Url="html/51b903a6-bca6-02bc-6765-5314d8c822ab.htm" />
+    <HelpKINode Title="about AsyncInitBase(Of T, TArg1, TArg2, TArg3) class" Url="html/51b903a6-bca6-02bc-6765-5314d8c822ab.htm" />
+    <HelpKINode Title="constructor" Url="html/2791a1ed-598e-6009-c98b-904a17caba4b.htm" />
+    <HelpKINode Title="methods" Url="html/a5f84114-9b9b-682e-0cb0-257688c024b9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3).AsyncInitBase constructor" Url="html/2791a1ed-598e-6009-c98b-904a17caba4b.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3).CreateAsync method" Url="html/0c04e011-3f23-f2af-a08b-742fefa14b0b.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3).InitAsync method" Url="html/05534f42-05de-ec67-16f9-b67430e9f9e8.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4) class">
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Class" Url="html/022441be-b203-eb5d-c129-44203e2814c0.htm" />
+    <HelpKINode Title="about AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4) class" Url="html/022441be-b203-eb5d-c129-44203e2814c0.htm" />
+    <HelpKINode Title="constructor" Url="html/4b114932-d33e-8762-96cb-2cac703239cf.htm" />
+    <HelpKINode Title="methods" Url="html/9bcbdd53-b624-9cd3-7e40-42bc73a629f1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4).AsyncInitBase constructor" Url="html/4b114932-d33e-8762-96cb-2cac703239cf.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4).CreateAsync method" Url="html/89675ae9-89a3-6660-0ee6-1fccd793c629.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4).InitAsync method" Url="html/8e1f3dd1-1d48-f92c-9f21-1c21179eb2b0.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5) class">
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Class" Url="html/8be6ae0f-3fba-7653-2e40-ac3849a4da95.htm" />
+    <HelpKINode Title="about AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5) class" Url="html/8be6ae0f-3fba-7653-2e40-ac3849a4da95.htm" />
+    <HelpKINode Title="constructor" Url="html/07e2a8bd-1fab-2a18-2992-9cd7a8f34557.htm" />
+    <HelpKINode Title="methods" Url="html/0ddaa9dc-5ebc-240b-5d97-b2f46dc6873a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5).AsyncInitBase constructor" Url="html/07e2a8bd-1fab-2a18-2992-9cd7a8f34557.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5).CreateAsync method" Url="html/4b1c30a9-33eb-7983-5766-5ef2393e69a9.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5).InitAsync method" Url="html/09ee0272-1562-84cc-f55a-0528faba39e9.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) class">
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Class" Url="html/e48fd707-6343-e210-a2d4-df6a83680164.htm" />
+    <HelpKINode Title="about AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) class" Url="html/e48fd707-6343-e210-a2d4-df6a83680164.htm" />
+    <HelpKINode Title="constructor" Url="html/e309d378-2221-2185-9401-a56a33a6fb42.htm" />
+    <HelpKINode Title="methods" Url="html/58a1c19e-b865-b433-e716-579c27161654.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).AsyncInitBase constructor" Url="html/e309d378-2221-2185-9401-a56a33a6fb42.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).CreateAsync method" Url="html/4ec740fb-e235-6fa7-f7ae-1285e6648924.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).InitAsync method" Url="html/c35f0b1d-c0eb-87c5-f519-b3c31f768b2f.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) class">
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Class" Url="html/23258155-a76b-b725-12e7-5cd68d3679fd.htm" />
+    <HelpKINode Title="about AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) class" Url="html/23258155-a76b-b725-12e7-5cd68d3679fd.htm" />
+    <HelpKINode Title="constructor" Url="html/7002db57-a8fe-b825-702e-fa94b4f338da.htm" />
+    <HelpKINode Title="methods" Url="html/d1e9fd4f-72c0-f60e-2187-8af4bcfafdcc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).AsyncInitBase constructor" Url="html/7002db57-a8fe-b825-702e-fa94b4f338da.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).CreateAsync method" Url="html/93eb76c3-a8d7-ed24-778a-738b8bef64b6.htm" />
+  <HelpKINode Title="AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).InitAsync method" Url="html/cf853feb-ca5d-1884-b96e-d39d39f00ea6.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt; class">
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Class" Url="html/23258155-a76b-b725-12e7-5cd68d3679fd.htm" />
+    <HelpKINode Title="about AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt; class" Url="html/23258155-a76b-b725-12e7-5cd68d3679fd.htm" />
+    <HelpKINode Title="constructor" Url="html/7002db57-a8fe-b825-702e-fa94b4f338da.htm" />
+    <HelpKINode Title="methods" Url="html/d1e9fd4f-72c0-f60e-2187-8af4bcfafdcc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt;.AsyncInitBase constructor" Url="html/7002db57-a8fe-b825-702e-fa94b4f338da.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt;.CreateAsync method" Url="html/93eb76c3-a8d7-ed24-778a-738b8bef64b6.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt;.InitAsync method" Url="html/cf853feb-ca5d-1884-b96e-d39d39f00ea6.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt; class">
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Class" Url="html/e48fd707-6343-e210-a2d4-df6a83680164.htm" />
+    <HelpKINode Title="about AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt; class" Url="html/e48fd707-6343-e210-a2d4-df6a83680164.htm" />
+    <HelpKINode Title="constructor" Url="html/e309d378-2221-2185-9401-a56a33a6fb42.htm" />
+    <HelpKINode Title="methods" Url="html/58a1c19e-b865-b433-e716-579c27161654.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt;.AsyncInitBase constructor" Url="html/e309d378-2221-2185-9401-a56a33a6fb42.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt;.CreateAsync method" Url="html/4ec740fb-e235-6fa7-f7ae-1285e6648924.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt;.InitAsync method" Url="html/c35f0b1d-c0eb-87c5-f519-b3c31f768b2f.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5&gt; class">
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Class" Url="html/8be6ae0f-3fba-7653-2e40-ac3849a4da95.htm" />
+    <HelpKINode Title="about AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5&gt; class" Url="html/8be6ae0f-3fba-7653-2e40-ac3849a4da95.htm" />
+    <HelpKINode Title="constructor" Url="html/07e2a8bd-1fab-2a18-2992-9cd7a8f34557.htm" />
+    <HelpKINode Title="methods" Url="html/0ddaa9dc-5ebc-240b-5d97-b2f46dc6873a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5&gt;.AsyncInitBase constructor" Url="html/07e2a8bd-1fab-2a18-2992-9cd7a8f34557.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5&gt;.CreateAsync method" Url="html/4b1c30a9-33eb-7983-5766-5ef2393e69a9.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5&gt;.InitAsync method" Url="html/09ee0272-1562-84cc-f55a-0528faba39e9.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4&gt; class">
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Class" Url="html/022441be-b203-eb5d-c129-44203e2814c0.htm" />
+    <HelpKINode Title="about AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4&gt; class" Url="html/022441be-b203-eb5d-c129-44203e2814c0.htm" />
+    <HelpKINode Title="constructor" Url="html/4b114932-d33e-8762-96cb-2cac703239cf.htm" />
+    <HelpKINode Title="methods" Url="html/9bcbdd53-b624-9cd3-7e40-42bc73a629f1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4&gt;.AsyncInitBase constructor" Url="html/4b114932-d33e-8762-96cb-2cac703239cf.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4&gt;.CreateAsync method" Url="html/89675ae9-89a3-6660-0ee6-1fccd793c629.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4&gt;.InitAsync method" Url="html/8e1f3dd1-1d48-f92c-9f21-1c21179eb2b0.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3&gt; class">
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3) Class" Url="html/51b903a6-bca6-02bc-6765-5314d8c822ab.htm" />
+    <HelpKINode Title="about AsyncInitBase&lt;T, TArg1, TArg2, TArg3&gt; class" Url="html/51b903a6-bca6-02bc-6765-5314d8c822ab.htm" />
+    <HelpKINode Title="constructor" Url="html/2791a1ed-598e-6009-c98b-904a17caba4b.htm" />
+    <HelpKINode Title="methods" Url="html/a5f84114-9b9b-682e-0cb0-257688c024b9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3&gt;.AsyncInitBase constructor" Url="html/2791a1ed-598e-6009-c98b-904a17caba4b.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3&gt;.CreateAsync method" Url="html/0c04e011-3f23-f2af-a08b-742fefa14b0b.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2, TArg3&gt;.InitAsync method" Url="html/05534f42-05de-ec67-16f9-b67430e9f9e8.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2&gt; class">
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2) Class" Url="html/2c231b5b-d15d-0239-7dc3-4745cfad2aee.htm" />
+    <HelpKINode Title="about AsyncInitBase&lt;T, TArg1, TArg2&gt; class" Url="html/2c231b5b-d15d-0239-7dc3-4745cfad2aee.htm" />
+    <HelpKINode Title="constructor" Url="html/843463b3-db88-9988-4a25-f85848f8a870.htm" />
+    <HelpKINode Title="methods" Url="html/94f3c3bc-bcf8-195c-b39a-b22671ed9cb6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2&gt;.AsyncInitBase constructor" Url="html/843463b3-db88-9988-4a25-f85848f8a870.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2&gt;.CreateAsync method" Url="html/76ea8397-fab4-85a7-ef79-86edb5d8853a.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg1, TArg2&gt;.InitAsync method" Url="html/f24dda3c-8ea1-9c17-0077-206a78fb3447.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg&gt; class">
+    <HelpKINode Title="AsyncInitBase(T, TArg) Class" Url="html/8a1f3300-cd81-ba77-237c-54c89f1ce6fc.htm" />
+    <HelpKINode Title="about AsyncInitBase&lt;T, TArg&gt; class" Url="html/8a1f3300-cd81-ba77-237c-54c89f1ce6fc.htm" />
+    <HelpKINode Title="constructor" Url="html/550d043c-7eaf-885d-d749-e0012c78be4a.htm" />
+    <HelpKINode Title="methods" Url="html/b4e7b0ae-703a-0d48-a6a9-454f49c9c561.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg&gt;.AsyncInitBase constructor" Url="html/550d043c-7eaf-885d-d749-e0012c78be4a.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg&gt;.CreateAsync method" Url="html/91820cfb-2088-c5bd-3c31-5bfaade48326.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T, TArg&gt;.InitAsync method" Url="html/4aff3e81-499e-f8ae-4310-2771806518e0.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T&gt; class">
+    <HelpKINode Title="AsyncInitBase(T) Class" Url="html/4b294ef0-9d81-0e81-f774-afc857c6d308.htm" />
+    <HelpKINode Title="about AsyncInitBase&lt;T&gt; class" Url="html/4b294ef0-9d81-0e81-f774-afc857c6d308.htm" />
+    <HelpKINode Title="constructor" Url="html/ae1d53cb-c6a4-451e-2054-bafe030f19e1.htm" />
+    <HelpKINode Title="methods" Url="html/9d9a0865-b2a9-846c-cf86-869ae2a9a77c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncInitBase&lt;T&gt;.AsyncInitBase constructor" Url="html/ae1d53cb-c6a4-451e-2054-bafe030f19e1.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T&gt;.CreateAsync method" Url="html/4a400fa3-4ffe-d5f4-1620-78e50e5c96d3.htm" />
+  <HelpKINode Title="AsyncInitBase&lt;T&gt;.InitAsync method" Url="html/bc44e038-9598-8967-54b1-cb78710f281d.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T) class">
+    <HelpKINode Title="CancelableAsyncInitBase(T) Class" Url="html/777bff90-781e-5649-6ea9-3ecda716e975.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase(Of T) class" Url="html/777bff90-781e-5649-6ea9-3ecda716e975.htm" />
+    <HelpKINode Title="constructor" Url="html/e08a03d1-8323-0a89-a5c4-510a016cb49f.htm" />
+    <HelpKINode Title="methods" Url="html/bebe3378-16d6-3b3c-6acd-7022fdacbbc2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase(Of T).CancelableAsyncInitBase constructor" Url="html/e08a03d1-8323-0a89-a5c4-510a016cb49f.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T).CreateAsync method" Url="html/217ce55c-66e5-591d-b9aa-4199eb5c4f97.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T).InitAsync method" Url="html/54bfa5dd-9424-cca4-d54b-d0690b7d62ab.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg) class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg) Class" Url="html/e202b4d3-3508-916c-78bf-a95d30e3bdcc.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase(Of T, TArg) class" Url="html/e202b4d3-3508-916c-78bf-a95d30e3bdcc.htm" />
+    <HelpKINode Title="constructor" Url="html/d9a6c086-e415-7980-f80d-48f2b0c71841.htm" />
+    <HelpKINode Title="methods" Url="html/7dd52f5a-5e92-bcb4-558c-5d7c92b24a6b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg).CancelableAsyncInitBase constructor" Url="html/d9a6c086-e415-7980-f80d-48f2b0c71841.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg).CreateAsync method" Url="html/51cf47ce-0664-6d6a-d3eb-b023b873146d.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg).InitAsync method" Url="html/e692c3b5-ce2d-0ef2-67ac-49b891795e3c.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2) class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2) Class" Url="html/93ca0dd2-9452-b256-1ad4-2eabc3d5bbf9.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase(Of T, TArg1, TArg2) class" Url="html/93ca0dd2-9452-b256-1ad4-2eabc3d5bbf9.htm" />
+    <HelpKINode Title="constructor" Url="html/1c48d27a-ec73-6df5-5aae-22b9381bd38c.htm" />
+    <HelpKINode Title="methods" Url="html/15c5d9e4-483f-8969-d57b-e2b608e85c04.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2).CancelableAsyncInitBase constructor" Url="html/1c48d27a-ec73-6df5-5aae-22b9381bd38c.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2).CreateAsync method" Url="html/e7520a80-ade0-46c2-2d23-caba139f3120.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2).InitAsync method" Url="html/c1d2a3fc-c070-cb51-b070-7a202a86b058.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3) class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3) Class" Url="html/0b153125-a343-e14c-94e7-82d2b09ab7bc.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3) class" Url="html/0b153125-a343-e14c-94e7-82d2b09ab7bc.htm" />
+    <HelpKINode Title="constructor" Url="html/4da64a76-bf19-c796-0e3c-e8af404752af.htm" />
+    <HelpKINode Title="methods" Url="html/683543a8-259a-0536-6458-ecb12394146e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3).CancelableAsyncInitBase constructor" Url="html/4da64a76-bf19-c796-0e3c-e8af404752af.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3).CreateAsync method" Url="html/bcf24995-0744-65f6-84cf-afa8b2e552d0.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3).InitAsync method" Url="html/f09e832b-2ec8-d2fd-66ad-b274abe2af9d.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4) class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Class" Url="html/93bb7e5b-d15a-2700-531d-c51c73c56e7a.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4) class" Url="html/93bb7e5b-d15a-2700-531d-c51c73c56e7a.htm" />
+    <HelpKINode Title="constructor" Url="html/7e3cf67d-c370-63b9-c1b8-80b0d4de1e47.htm" />
+    <HelpKINode Title="methods" Url="html/4943ad0f-f7a5-43cd-962b-f4ca4971e105.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4).CancelableAsyncInitBase constructor" Url="html/7e3cf67d-c370-63b9-c1b8-80b0d4de1e47.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4).CreateAsync method" Url="html/83370045-a3e2-2b72-55b3-4ae8aa6dff92.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4).InitAsync method" Url="html/5e485b42-2bc0-2cbd-43f3-3030dda16319.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5) class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Class" Url="html/9027e7d2-54a5-f6d3-cb8f-bb1143e12edf.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5) class" Url="html/9027e7d2-54a5-f6d3-cb8f-bb1143e12edf.htm" />
+    <HelpKINode Title="constructor" Url="html/7e95a1b4-3804-4dae-0ceb-aa891b476cb2.htm" />
+    <HelpKINode Title="methods" Url="html/a04ceea4-af9f-4fdc-ed08-db9927a27339.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5).CancelableAsyncInitBase constructor" Url="html/7e95a1b4-3804-4dae-0ceb-aa891b476cb2.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5).CreateAsync method" Url="html/4781ef1e-fb5f-a107-7ebf-7e21ead7f48d.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5).InitAsync method" Url="html/a4b57b2f-b6da-6c0a-1682-0d4ff687ddc9.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Class" Url="html/2009d7ad-dbe9-4fad-0fd2-b40b41423cba.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) class" Url="html/2009d7ad-dbe9-4fad-0fd2-b40b41423cba.htm" />
+    <HelpKINode Title="constructor" Url="html/838cbab4-f41c-653e-4a05-26edba1401b8.htm" />
+    <HelpKINode Title="methods" Url="html/a6f4ec9b-22be-54d1-66c3-0fb10c5f4ddd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).CancelableAsyncInitBase constructor" Url="html/838cbab4-f41c-653e-4a05-26edba1401b8.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).CreateAsync method" Url="html/b2bc1531-c60e-f334-8db2-026ccb2a4a7c.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).InitAsync method" Url="html/98205a6f-917b-7ce8-ddbe-6e53313a0a66.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Class" Url="html/12111324-49ae-8040-9637-f118be7f6dcd.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) class" Url="html/12111324-49ae-8040-9637-f118be7f6dcd.htm" />
+    <HelpKINode Title="constructor" Url="html/46911a4d-4f06-e334-0796-d507de47f4a1.htm" />
+    <HelpKINode Title="methods" Url="html/724924fd-73c6-3cd5-54d1-7d31651759c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).CancelableAsyncInitBase constructor" Url="html/46911a4d-4f06-e334-0796-d507de47f4a1.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).CreateAsync method" Url="html/27c6953f-d984-56dd-9782-754da6e05a64.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).InitAsync method" Url="html/a49e1ea1-69f9-9cfe-c4a5-6b64412433cb.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt; class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Class" Url="html/12111324-49ae-8040-9637-f118be7f6dcd.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt; class" Url="html/12111324-49ae-8040-9637-f118be7f6dcd.htm" />
+    <HelpKINode Title="constructor" Url="html/46911a4d-4f06-e334-0796-d507de47f4a1.htm" />
+    <HelpKINode Title="methods" Url="html/724924fd-73c6-3cd5-54d1-7d31651759c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt;.CancelableAsyncInitBase constructor" Url="html/46911a4d-4f06-e334-0796-d507de47f4a1.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt;.CreateAsync method" Url="html/27c6953f-d984-56dd-9782-754da6e05a64.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt;.InitAsync method" Url="html/a49e1ea1-69f9-9cfe-c4a5-6b64412433cb.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt; class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Class" Url="html/2009d7ad-dbe9-4fad-0fd2-b40b41423cba.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt; class" Url="html/2009d7ad-dbe9-4fad-0fd2-b40b41423cba.htm" />
+    <HelpKINode Title="constructor" Url="html/838cbab4-f41c-653e-4a05-26edba1401b8.htm" />
+    <HelpKINode Title="methods" Url="html/a6f4ec9b-22be-54d1-66c3-0fb10c5f4ddd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt;.CancelableAsyncInitBase constructor" Url="html/838cbab4-f41c-653e-4a05-26edba1401b8.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt;.CreateAsync method" Url="html/b2bc1531-c60e-f334-8db2-026ccb2a4a7c.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt;.InitAsync method" Url="html/98205a6f-917b-7ce8-ddbe-6e53313a0a66.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5&gt; class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5) Class" Url="html/9027e7d2-54a5-f6d3-cb8f-bb1143e12edf.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5&gt; class" Url="html/9027e7d2-54a5-f6d3-cb8f-bb1143e12edf.htm" />
+    <HelpKINode Title="constructor" Url="html/7e95a1b4-3804-4dae-0ceb-aa891b476cb2.htm" />
+    <HelpKINode Title="methods" Url="html/a04ceea4-af9f-4fdc-ed08-db9927a27339.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5&gt;.CancelableAsyncInitBase constructor" Url="html/7e95a1b4-3804-4dae-0ceb-aa891b476cb2.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5&gt;.CreateAsync method" Url="html/4781ef1e-fb5f-a107-7ebf-7e21ead7f48d.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5&gt;.InitAsync method" Url="html/a4b57b2f-b6da-6c0a-1682-0d4ff687ddc9.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4&gt; class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4) Class" Url="html/93bb7e5b-d15a-2700-531d-c51c73c56e7a.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4&gt; class" Url="html/93bb7e5b-d15a-2700-531d-c51c73c56e7a.htm" />
+    <HelpKINode Title="constructor" Url="html/7e3cf67d-c370-63b9-c1b8-80b0d4de1e47.htm" />
+    <HelpKINode Title="methods" Url="html/4943ad0f-f7a5-43cd-962b-f4ca4971e105.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4&gt;.CancelableAsyncInitBase constructor" Url="html/7e3cf67d-c370-63b9-c1b8-80b0d4de1e47.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4&gt;.CreateAsync method" Url="html/83370045-a3e2-2b72-55b3-4ae8aa6dff92.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4&gt;.InitAsync method" Url="html/5e485b42-2bc0-2cbd-43f3-3030dda16319.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3&gt; class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3) Class" Url="html/0b153125-a343-e14c-94e7-82d2b09ab7bc.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3&gt; class" Url="html/0b153125-a343-e14c-94e7-82d2b09ab7bc.htm" />
+    <HelpKINode Title="constructor" Url="html/4da64a76-bf19-c796-0e3c-e8af404752af.htm" />
+    <HelpKINode Title="methods" Url="html/683543a8-259a-0536-6458-ecb12394146e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3&gt;.CancelableAsyncInitBase constructor" Url="html/4da64a76-bf19-c796-0e3c-e8af404752af.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3&gt;.CreateAsync method" Url="html/bcf24995-0744-65f6-84cf-afa8b2e552d0.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3&gt;.InitAsync method" Url="html/f09e832b-2ec8-d2fd-66ad-b274abe2af9d.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2&gt; class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2) Class" Url="html/93ca0dd2-9452-b256-1ad4-2eabc3d5bbf9.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase&lt;T, TArg1, TArg2&gt; class" Url="html/93ca0dd2-9452-b256-1ad4-2eabc3d5bbf9.htm" />
+    <HelpKINode Title="constructor" Url="html/1c48d27a-ec73-6df5-5aae-22b9381bd38c.htm" />
+    <HelpKINode Title="methods" Url="html/15c5d9e4-483f-8969-d57b-e2b608e85c04.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2&gt;.CancelableAsyncInitBase constructor" Url="html/1c48d27a-ec73-6df5-5aae-22b9381bd38c.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2&gt;.CreateAsync method" Url="html/e7520a80-ade0-46c2-2d23-caba139f3120.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg1, TArg2&gt;.InitAsync method" Url="html/c1d2a3fc-c070-cb51-b070-7a202a86b058.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg&gt; class">
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg) Class" Url="html/e202b4d3-3508-916c-78bf-a95d30e3bdcc.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase&lt;T, TArg&gt; class" Url="html/e202b4d3-3508-916c-78bf-a95d30e3bdcc.htm" />
+    <HelpKINode Title="constructor" Url="html/d9a6c086-e415-7980-f80d-48f2b0c71841.htm" />
+    <HelpKINode Title="methods" Url="html/7dd52f5a-5e92-bcb4-558c-5d7c92b24a6b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg&gt;.CancelableAsyncInitBase constructor" Url="html/d9a6c086-e415-7980-f80d-48f2b0c71841.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg&gt;.CreateAsync method" Url="html/51cf47ce-0664-6d6a-d3eb-b023b873146d.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T, TArg&gt;.InitAsync method" Url="html/e692c3b5-ce2d-0ef2-67ac-49b891795e3c.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T&gt; class">
+    <HelpKINode Title="CancelableAsyncInitBase(T) Class" Url="html/777bff90-781e-5649-6ea9-3ecda716e975.htm" />
+    <HelpKINode Title="about CancelableAsyncInitBase&lt;T&gt; class" Url="html/777bff90-781e-5649-6ea9-3ecda716e975.htm" />
+    <HelpKINode Title="constructor" Url="html/e08a03d1-8323-0a89-a5c4-510a016cb49f.htm" />
+    <HelpKINode Title="methods" Url="html/bebe3378-16d6-3b3c-6acd-7022fdacbbc2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T&gt;.CancelableAsyncInitBase constructor" Url="html/e08a03d1-8323-0a89-a5c4-510a016cb49f.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T&gt;.CreateAsync method" Url="html/217ce55c-66e5-591d-b9aa-4199eb5c4f97.htm" />
+  <HelpKINode Title="CancelableAsyncInitBase&lt;T&gt;.InitAsync method" Url="html/54bfa5dd-9424-cca4-d54b-d0690b7d62ab.htm" />
+  <HelpKINode Title="CreateAsync method">
+    <HelpKINode Title="AsyncActivator.CreateAsync Method " Url="html/a384c895-1b53-3ee2-be46-cd18009a9b96.htm" />
+    <HelpKINode Title="AsyncInitBase(T).CreateAsync Method " Url="html/4a400fa3-4ffe-d5f4-1620-78e50e5c96d3.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg).CreateAsync Method " Url="html/91820cfb-2088-c5bd-3c31-5bfaade48326.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2).CreateAsync Method " Url="html/76ea8397-fab4-85a7-ef79-86edb5d8853a.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3).CreateAsync Method " Url="html/0c04e011-3f23-f2af-a08b-742fefa14b0b.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4).CreateAsync Method " Url="html/89675ae9-89a3-6660-0ee6-1fccd793c629.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5).CreateAsync Method " Url="html/4b1c30a9-33eb-7983-5766-5ef2393e69a9.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).CreateAsync Method " Url="html/4ec740fb-e235-6fa7-f7ae-1285e6648924.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).CreateAsync Method " Url="html/93eb76c3-a8d7-ed24-778a-738b8bef64b6.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T).CreateAsync Method " Url="html/217ce55c-66e5-591d-b9aa-4199eb5c4f97.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg).CreateAsync Method " Url="html/51cf47ce-0664-6d6a-d3eb-b023b873146d.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2).CreateAsync Method " Url="html/e7520a80-ade0-46c2-2d23-caba139f3120.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3).CreateAsync Method " Url="html/bcf24995-0744-65f6-84cf-afa8b2e552d0.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4).CreateAsync Method " Url="html/83370045-a3e2-2b72-55b3-4ae8aa6dff92.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5).CreateAsync Method " Url="html/4781ef1e-fb5f-a107-7ebf-7e21ead7f48d.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).CreateAsync Method " Url="html/b2bc1531-c60e-f334-8db2-026ccb2a4a7c.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).CreateAsync Method " Url="html/27c6953f-d984-56dd-9782-754da6e05a64.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateInstance(Of T) method" Url="html/75a9d648-6d13-47f1-557a-64c15aab362d.htm" />
+  <HelpKINode Title="CreateInstance&lt;T&gt; method" Url="html/75a9d648-6d13-47f1-557a-64c15aab362d.htm" />
+  <HelpKINode Title="Ditto.AsyncInit namespace" Url="html/788c74db-682e-cb91-ffa0-d328e53b5b45.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncActivator class" Url="html/a0d22d67-ec48-2755-a1d4-3cce05477b43.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase(Of T) class" Url="html/4b294ef0-9d81-0e81-f774-afc857c6d308.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase(Of T, TArg) class" Url="html/8a1f3300-cd81-ba77-237c-54c89f1ce6fc.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase(Of T, TArg1, TArg2) class" Url="html/2c231b5b-d15d-0239-7dc3-4745cfad2aee.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase(Of T, TArg1, TArg2, TArg3) class" Url="html/51b903a6-bca6-02bc-6765-5314d8c822ab.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4) class" Url="html/022441be-b203-eb5d-c129-44203e2814c0.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5) class" Url="html/8be6ae0f-3fba-7653-2e40-ac3849a4da95.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) class" Url="html/e48fd707-6343-e210-a2d4-df6a83680164.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) class" Url="html/23258155-a76b-b725-12e7-5cd68d3679fd.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt; class" Url="html/23258155-a76b-b725-12e7-5cd68d3679fd.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt; class" Url="html/e48fd707-6343-e210-a2d4-df6a83680164.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5&gt; class" Url="html/8be6ae0f-3fba-7653-2e40-ac3849a4da95.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4&gt; class" Url="html/022441be-b203-eb5d-c129-44203e2814c0.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase&lt;T, TArg1, TArg2, TArg3&gt; class" Url="html/51b903a6-bca6-02bc-6765-5314d8c822ab.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase&lt;T, TArg1, TArg2&gt; class" Url="html/2c231b5b-d15d-0239-7dc3-4745cfad2aee.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase&lt;T, TArg&gt; class" Url="html/8a1f3300-cd81-ba77-237c-54c89f1ce6fc.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.AsyncInitBase&lt;T&gt; class" Url="html/4b294ef0-9d81-0e81-f774-afc857c6d308.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase(Of T) class" Url="html/777bff90-781e-5649-6ea9-3ecda716e975.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase(Of T, TArg) class" Url="html/e202b4d3-3508-916c-78bf-a95d30e3bdcc.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase(Of T, TArg1, TArg2) class" Url="html/93ca0dd2-9452-b256-1ad4-2eabc3d5bbf9.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3) class" Url="html/0b153125-a343-e14c-94e7-82d2b09ab7bc.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4) class" Url="html/93bb7e5b-d15a-2700-531d-c51c73c56e7a.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5) class" Url="html/9027e7d2-54a5-f6d3-cb8f-bb1143e12edf.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) class" Url="html/2009d7ad-dbe9-4fad-0fd2-b40b41423cba.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase(Of T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) class" Url="html/12111324-49ae-8040-9637-f118be7f6dcd.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt; class" Url="html/12111324-49ae-8040-9637-f118be7f6dcd.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt; class" Url="html/2009d7ad-dbe9-4fad-0fd2-b40b41423cba.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4, TArg5&gt; class" Url="html/9027e7d2-54a5-f6d3-cb8f-bb1143e12edf.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3, TArg4&gt; class" Url="html/93bb7e5b-d15a-2700-531d-c51c73c56e7a.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase&lt;T, TArg1, TArg2, TArg3&gt; class" Url="html/0b153125-a343-e14c-94e7-82d2b09ab7bc.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase&lt;T, TArg1, TArg2&gt; class" Url="html/93ca0dd2-9452-b256-1ad4-2eabc3d5bbf9.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase&lt;T, TArg&gt; class" Url="html/e202b4d3-3508-916c-78bf-a95d30e3bdcc.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.CancelableAsyncInitBase&lt;T&gt; class" Url="html/777bff90-781e-5649-6ea9-3ecda716e975.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit interface" Url="html/d69ea393-0d7d-498f-303a-baf464e69971.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit(Of TArg) interface" Url="html/0bee8ddb-0bbf-e051-5c3c-47c6b3401562.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit(Of TArg1, TArg2) interface" Url="html/b081d051-c2c1-c979-fbe3-1a210246e2f4.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit(Of TArg1, TArg2, TArg3) interface" Url="html/9bb1e3dd-6bef-f0de-bd82-72b1d531b1d7.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit(Of TArg1, TArg2, TArg3, TArg4) interface" Url="html/fa63f92b-00d8-5a56-289d-6156ba821aa2.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5) interface" Url="html/b85a45e5-0629-cad0-5a12-2c04a124b6a1.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) interface" Url="html/f2e87d3d-e0f9-7ba6-bdde-1fb2ba600718.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) interface" Url="html/78cc9d9c-3e37-33c5-8ec8-ef0e08688c35.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt; interface" Url="html/78cc9d9c-3e37-33c5-8ec8-ef0e08688c35.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt; interface" Url="html/f2e87d3d-e0f9-7ba6-bdde-1fb2ba600718.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5&gt; interface" Url="html/b85a45e5-0629-cad0-5a12-2c04a124b6a1.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4&gt; interface" Url="html/fa63f92b-00d8-5a56-289d-6156ba821aa2.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit&lt;TArg1, TArg2, TArg3&gt; interface" Url="html/9bb1e3dd-6bef-f0de-bd82-72b1d531b1d7.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit&lt;TArg1, TArg2&gt; interface" Url="html/b081d051-c2c1-c979-fbe3-1a210246e2f4.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.IAsyncInit&lt;TArg&gt; interface" Url="html/0bee8ddb-0bbf-e051-5c3c-47c6b3401562.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit interface" Url="html/f7980fe9-6641-3912-a948-da1b5b10d3e5.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit(Of TArg) interface" Url="html/8f472aad-8776-09eb-5ddd-99815c399a39.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit(Of TArg1, TArg2) interface" Url="html/fb0489ae-8460-977a-7467-21047447dab2.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit(Of TArg1, TArg2, TArg3) interface" Url="html/ddfa5eb0-53ea-c1a1-e5d7-84da866ecc05.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4) interface" Url="html/ad465b15-1414-5625-b970-1b0a5a6679c3.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5) interface" Url="html/04e16f6c-dfb5-d639-00f1-a4e8e4776860.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) interface" Url="html/d312511b-3abb-8f9a-efca-73e95332140a.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) interface" Url="html/82a146b6-959c-64de-37c1-2840bbb568bc.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt; interface" Url="html/82a146b6-959c-64de-37c1-2840bbb568bc.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt; interface" Url="html/d312511b-3abb-8f9a-efca-73e95332140a.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5&gt; interface" Url="html/04e16f6c-dfb5-d639-00f1-a4e8e4776860.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4&gt; interface" Url="html/ad465b15-1414-5625-b970-1b0a5a6679c3.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit&lt;TArg1, TArg2, TArg3&gt; interface" Url="html/ddfa5eb0-53ea-c1a1-e5d7-84da866ecc05.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit&lt;TArg1, TArg2&gt; interface" Url="html/fb0489ae-8460-977a-7467-21047447dab2.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.ICancelableAsyncInit&lt;TArg&gt; interface" Url="html/8f472aad-8776-09eb-5ddd-99815c399a39.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.Internal namespace" Url="html/3111eb57-ba56-653d-41d6-59b377e5e9f7.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.Internal.Utilities class" Url="html/e76aceff-b849-f496-24cf-dfa602a056b5.htm" />
+  <HelpKINode Title="howto">
+    <HelpKINode Title="Deriving from an AsyncInit Base Class" Url="html/edeb370d-6d7e-4f82-adab-f2326d89c857.htm" />
+    <HelpKINode Title="How Tos" Url="html/c0f9e874-dd33-473b-a245-85fc69447a4b.htm" />
+    <HelpKINode Title="Implementing an AsyncInit Interface" Url="html/c731bb1a-010a-40c6-856b-421ebbd05a26.htm" />
+    <HelpKINode Title="Silverlight Usage" Url="html/f175305f-89a6-498e-add6-e803be90433e.htm" />
+    <HelpKINode Title="installation,instructions" Url="html/2ac5864f-d7ba-4ef7-a487-77ecfc2aab3a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit interface">
+    <HelpKINode Title="IAsyncInit Interface" Url="html/d69ea393-0d7d-498f-303a-baf464e69971.htm" />
+    <HelpKINode Title="about IAsyncInit interface" Url="html/d69ea393-0d7d-498f-303a-baf464e69971.htm" />
+    <HelpKINode Title="methods" Url="html/fe6f735b-7a87-9761-d84e-fcc9a7d316bf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit(Of TArg) interface">
+    <HelpKINode Title="IAsyncInit(TArg) Interface" Url="html/0bee8ddb-0bbf-e051-5c3c-47c6b3401562.htm" />
+    <HelpKINode Title="about IAsyncInit(Of TArg) interface" Url="html/0bee8ddb-0bbf-e051-5c3c-47c6b3401562.htm" />
+    <HelpKINode Title="methods" Url="html/83c9a070-c01b-c601-e5fd-97dc2d8490b8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit(Of TArg).InitAsync method" Url="html/b71ee50a-591f-7fee-d381-970c35527f29.htm" />
+  <HelpKINode Title="IAsyncInit(Of TArg1, TArg2) interface">
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2) Interface" Url="html/b081d051-c2c1-c979-fbe3-1a210246e2f4.htm" />
+    <HelpKINode Title="about IAsyncInit(Of TArg1, TArg2) interface" Url="html/b081d051-c2c1-c979-fbe3-1a210246e2f4.htm" />
+    <HelpKINode Title="methods" Url="html/41431ef8-d1ab-dc09-d0ba-b94b58889b76.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit(Of TArg1, TArg2).InitAsync method" Url="html/2c1dd45a-c9d9-0eda-6642-4136951ad510.htm" />
+  <HelpKINode Title="IAsyncInit(Of TArg1, TArg2, TArg3) interface">
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3) Interface" Url="html/9bb1e3dd-6bef-f0de-bd82-72b1d531b1d7.htm" />
+    <HelpKINode Title="about IAsyncInit(Of TArg1, TArg2, TArg3) interface" Url="html/9bb1e3dd-6bef-f0de-bd82-72b1d531b1d7.htm" />
+    <HelpKINode Title="methods" Url="html/9f871c9b-3c92-c166-46bc-df9787b4e0ed.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit(Of TArg1, TArg2, TArg3).InitAsync method" Url="html/f8e54dfb-84ed-a0a8-f429-3e21918be252.htm" />
+  <HelpKINode Title="IAsyncInit(Of TArg1, TArg2, TArg3, TArg4) interface">
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4) Interface" Url="html/fa63f92b-00d8-5a56-289d-6156ba821aa2.htm" />
+    <HelpKINode Title="about IAsyncInit(Of TArg1, TArg2, TArg3, TArg4) interface" Url="html/fa63f92b-00d8-5a56-289d-6156ba821aa2.htm" />
+    <HelpKINode Title="methods" Url="html/936f7cff-f9bd-60d1-9c9d-5428635c4dae.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit(Of TArg1, TArg2, TArg3, TArg4).InitAsync method" Url="html/b00c4a10-438f-952f-81c6-5ec52659b2d3.htm" />
+  <HelpKINode Title="IAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5) interface">
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5) Interface" Url="html/b85a45e5-0629-cad0-5a12-2c04a124b6a1.htm" />
+    <HelpKINode Title="about IAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5) interface" Url="html/b85a45e5-0629-cad0-5a12-2c04a124b6a1.htm" />
+    <HelpKINode Title="methods" Url="html/21dfa496-fd7c-dba2-f695-71ca3dcc0ee4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5).InitAsync method" Url="html/b9d7b2e0-74ef-a6c3-87bf-518e97087aaa.htm" />
+  <HelpKINode Title="IAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) interface">
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Interface" Url="html/f2e87d3d-e0f9-7ba6-bdde-1fb2ba600718.htm" />
+    <HelpKINode Title="about IAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) interface" Url="html/f2e87d3d-e0f9-7ba6-bdde-1fb2ba600718.htm" />
+    <HelpKINode Title="methods" Url="html/babd19dd-4782-0200-4a5e-3e49102951cf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).InitAsync method" Url="html/d8a237c9-eb12-e6d5-43c3-38e15560cd7c.htm" />
+  <HelpKINode Title="IAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) interface">
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Interface" Url="html/78cc9d9c-3e37-33c5-8ec8-ef0e08688c35.htm" />
+    <HelpKINode Title="about IAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) interface" Url="html/78cc9d9c-3e37-33c5-8ec8-ef0e08688c35.htm" />
+    <HelpKINode Title="methods" Url="html/9178ad36-fee2-5ed7-3619-dd604754cbbe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).InitAsync method" Url="html/eee0a9d9-e498-1e41-4557-cf5ec785e468.htm" />
+  <HelpKINode Title="IAsyncInit.InitAsync method" Url="html/18226c02-2410-ef44-78e0-54622a755017.htm" />
+  <HelpKINode Title="IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt; interface">
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Interface" Url="html/78cc9d9c-3e37-33c5-8ec8-ef0e08688c35.htm" />
+    <HelpKINode Title="about IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt; interface" Url="html/78cc9d9c-3e37-33c5-8ec8-ef0e08688c35.htm" />
+    <HelpKINode Title="methods" Url="html/9178ad36-fee2-5ed7-3619-dd604754cbbe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt;.InitAsync method" Url="html/eee0a9d9-e498-1e41-4557-cf5ec785e468.htm" />
+  <HelpKINode Title="IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt; interface">
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Interface" Url="html/f2e87d3d-e0f9-7ba6-bdde-1fb2ba600718.htm" />
+    <HelpKINode Title="about IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt; interface" Url="html/f2e87d3d-e0f9-7ba6-bdde-1fb2ba600718.htm" />
+    <HelpKINode Title="methods" Url="html/babd19dd-4782-0200-4a5e-3e49102951cf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt;.InitAsync method" Url="html/d8a237c9-eb12-e6d5-43c3-38e15560cd7c.htm" />
+  <HelpKINode Title="IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5&gt; interface">
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5) Interface" Url="html/b85a45e5-0629-cad0-5a12-2c04a124b6a1.htm" />
+    <HelpKINode Title="about IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5&gt; interface" Url="html/b85a45e5-0629-cad0-5a12-2c04a124b6a1.htm" />
+    <HelpKINode Title="methods" Url="html/21dfa496-fd7c-dba2-f695-71ca3dcc0ee4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5&gt;.InitAsync method" Url="html/b9d7b2e0-74ef-a6c3-87bf-518e97087aaa.htm" />
+  <HelpKINode Title="IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4&gt; interface">
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4) Interface" Url="html/fa63f92b-00d8-5a56-289d-6156ba821aa2.htm" />
+    <HelpKINode Title="about IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4&gt; interface" Url="html/fa63f92b-00d8-5a56-289d-6156ba821aa2.htm" />
+    <HelpKINode Title="methods" Url="html/936f7cff-f9bd-60d1-9c9d-5428635c4dae.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit&lt;TArg1, TArg2, TArg3, TArg4&gt;.InitAsync method" Url="html/b00c4a10-438f-952f-81c6-5ec52659b2d3.htm" />
+  <HelpKINode Title="IAsyncInit&lt;TArg1, TArg2, TArg3&gt; interface">
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3) Interface" Url="html/9bb1e3dd-6bef-f0de-bd82-72b1d531b1d7.htm" />
+    <HelpKINode Title="about IAsyncInit&lt;TArg1, TArg2, TArg3&gt; interface" Url="html/9bb1e3dd-6bef-f0de-bd82-72b1d531b1d7.htm" />
+    <HelpKINode Title="methods" Url="html/9f871c9b-3c92-c166-46bc-df9787b4e0ed.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit&lt;TArg1, TArg2, TArg3&gt;.InitAsync method" Url="html/f8e54dfb-84ed-a0a8-f429-3e21918be252.htm" />
+  <HelpKINode Title="IAsyncInit&lt;TArg1, TArg2&gt; interface">
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2) Interface" Url="html/b081d051-c2c1-c979-fbe3-1a210246e2f4.htm" />
+    <HelpKINode Title="about IAsyncInit&lt;TArg1, TArg2&gt; interface" Url="html/b081d051-c2c1-c979-fbe3-1a210246e2f4.htm" />
+    <HelpKINode Title="methods" Url="html/41431ef8-d1ab-dc09-d0ba-b94b58889b76.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit&lt;TArg1, TArg2&gt;.InitAsync method" Url="html/2c1dd45a-c9d9-0eda-6642-4136951ad510.htm" />
+  <HelpKINode Title="IAsyncInit&lt;TArg&gt; interface">
+    <HelpKINode Title="IAsyncInit(TArg) Interface" Url="html/0bee8ddb-0bbf-e051-5c3c-47c6b3401562.htm" />
+    <HelpKINode Title="about IAsyncInit&lt;TArg&gt; interface" Url="html/0bee8ddb-0bbf-e051-5c3c-47c6b3401562.htm" />
+    <HelpKINode Title="methods" Url="html/83c9a070-c01b-c601-e5fd-97dc2d8490b8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInit&lt;TArg&gt;.InitAsync method" Url="html/b71ee50a-591f-7fee-d381-970c35527f29.htm" />
+  <HelpKINode Title="ICancelableAsyncInit interface">
+    <HelpKINode Title="ICancelableAsyncInit Interface" Url="html/f7980fe9-6641-3912-a948-da1b5b10d3e5.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit interface" Url="html/f7980fe9-6641-3912-a948-da1b5b10d3e5.htm" />
+    <HelpKINode Title="methods" Url="html/0324c1fd-fa76-596e-f150-01e53338059d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg) interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg) Interface" Url="html/8f472aad-8776-09eb-5ddd-99815c399a39.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit(Of TArg) interface" Url="html/8f472aad-8776-09eb-5ddd-99815c399a39.htm" />
+    <HelpKINode Title="methods" Url="html/6a85e16e-3b01-1c62-977a-f48226f6c176.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg).InitAsync method" Url="html/552af297-780e-2eb0-fc9d-9bad9f476482.htm" />
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg1, TArg2) interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2) Interface" Url="html/fb0489ae-8460-977a-7467-21047447dab2.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit(Of TArg1, TArg2) interface" Url="html/fb0489ae-8460-977a-7467-21047447dab2.htm" />
+    <HelpKINode Title="methods" Url="html/be2f3640-a3d3-cfe2-a70b-4579ace3ffe9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg1, TArg2).InitAsync method" Url="html/60352a2d-63f4-e27e-5b08-d1bf8ef185d7.htm" />
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg1, TArg2, TArg3) interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3) Interface" Url="html/ddfa5eb0-53ea-c1a1-e5d7-84da866ecc05.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit(Of TArg1, TArg2, TArg3) interface" Url="html/ddfa5eb0-53ea-c1a1-e5d7-84da866ecc05.htm" />
+    <HelpKINode Title="methods" Url="html/f0b13da1-5f39-706f-283a-72f7f34c5519.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg1, TArg2, TArg3).InitAsync method" Url="html/0c437256-c715-7e98-1fd6-ba163da30a2e.htm" />
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4) interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4) Interface" Url="html/ad465b15-1414-5625-b970-1b0a5a6679c3.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4) interface" Url="html/ad465b15-1414-5625-b970-1b0a5a6679c3.htm" />
+    <HelpKINode Title="methods" Url="html/2574ea34-9369-7198-53cb-8ebe44102f3c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4).InitAsync method" Url="html/3bfb612f-07d0-a068-f44d-d739090f3db8.htm" />
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5) interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5) Interface" Url="html/04e16f6c-dfb5-d639-00f1-a4e8e4776860.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5) interface" Url="html/04e16f6c-dfb5-d639-00f1-a4e8e4776860.htm" />
+    <HelpKINode Title="methods" Url="html/cc87eb46-881a-9c76-c3c3-32a7529d81be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5).InitAsync method" Url="html/77a6b373-fd4b-0943-3c74-f155951a7aff.htm" />
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Interface" Url="html/d312511b-3abb-8f9a-efca-73e95332140a.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) interface" Url="html/d312511b-3abb-8f9a-efca-73e95332140a.htm" />
+    <HelpKINode Title="methods" Url="html/e42f6846-d23f-74f3-037a-a2e1e03c173c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).InitAsync method" Url="html/da37c4ac-15b4-e7a2-6c03-3d35cca9d8ba.htm" />
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Interface" Url="html/82a146b6-959c-64de-37c1-2840bbb568bc.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) interface" Url="html/82a146b6-959c-64de-37c1-2840bbb568bc.htm" />
+    <HelpKINode Title="methods" Url="html/74130afa-6e7a-ca3a-ca3e-9ef0531bf6be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit(Of TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).InitAsync method" Url="html/96be189f-5487-f285-add7-60d341a5cc81.htm" />
+  <HelpKINode Title="ICancelableAsyncInit.InitAsync method" Url="html/d92aba07-7551-4ea8-85f4-c84699bf9afb.htm" />
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt; interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7) Interface" Url="html/82a146b6-959c-64de-37c1-2840bbb568bc.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt; interface" Url="html/82a146b6-959c-64de-37c1-2840bbb568bc.htm" />
+    <HelpKINode Title="methods" Url="html/74130afa-6e7a-ca3a-ca3e-9ef0531bf6be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7&gt;.InitAsync method" Url="html/96be189f-5487-f285-add7-60d341a5cc81.htm" />
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt; interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6) Interface" Url="html/d312511b-3abb-8f9a-efca-73e95332140a.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt; interface" Url="html/d312511b-3abb-8f9a-efca-73e95332140a.htm" />
+    <HelpKINode Title="methods" Url="html/e42f6846-d23f-74f3-037a-a2e1e03c173c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5, TArg6&gt;.InitAsync method" Url="html/da37c4ac-15b4-e7a2-6c03-3d35cca9d8ba.htm" />
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5&gt; interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5) Interface" Url="html/04e16f6c-dfb5-d639-00f1-a4e8e4776860.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5&gt; interface" Url="html/04e16f6c-dfb5-d639-00f1-a4e8e4776860.htm" />
+    <HelpKINode Title="methods" Url="html/cc87eb46-881a-9c76-c3c3-32a7529d81be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4, TArg5&gt;.InitAsync method" Url="html/77a6b373-fd4b-0943-3c74-f155951a7aff.htm" />
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4&gt; interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4) Interface" Url="html/ad465b15-1414-5625-b970-1b0a5a6679c3.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4&gt; interface" Url="html/ad465b15-1414-5625-b970-1b0a5a6679c3.htm" />
+    <HelpKINode Title="methods" Url="html/2574ea34-9369-7198-53cb-8ebe44102f3c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg1, TArg2, TArg3, TArg4&gt;.InitAsync method" Url="html/3bfb612f-07d0-a068-f44d-d739090f3db8.htm" />
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg1, TArg2, TArg3&gt; interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3) Interface" Url="html/ddfa5eb0-53ea-c1a1-e5d7-84da866ecc05.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit&lt;TArg1, TArg2, TArg3&gt; interface" Url="html/ddfa5eb0-53ea-c1a1-e5d7-84da866ecc05.htm" />
+    <HelpKINode Title="methods" Url="html/f0b13da1-5f39-706f-283a-72f7f34c5519.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg1, TArg2, TArg3&gt;.InitAsync method" Url="html/0c437256-c715-7e98-1fd6-ba163da30a2e.htm" />
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg1, TArg2&gt; interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2) Interface" Url="html/fb0489ae-8460-977a-7467-21047447dab2.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit&lt;TArg1, TArg2&gt; interface" Url="html/fb0489ae-8460-977a-7467-21047447dab2.htm" />
+    <HelpKINode Title="methods" Url="html/be2f3640-a3d3-cfe2-a70b-4579ace3ffe9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg1, TArg2&gt;.InitAsync method" Url="html/60352a2d-63f4-e27e-5b08-d1bf8ef185d7.htm" />
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg&gt; interface">
+    <HelpKINode Title="ICancelableAsyncInit(TArg) Interface" Url="html/8f472aad-8776-09eb-5ddd-99815c399a39.htm" />
+    <HelpKINode Title="about ICancelableAsyncInit&lt;TArg&gt; interface" Url="html/8f472aad-8776-09eb-5ddd-99815c399a39.htm" />
+    <HelpKINode Title="methods" Url="html/6a85e16e-3b01-1c62-977a-f48226f6c176.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICancelableAsyncInit&lt;TArg&gt;.InitAsync method" Url="html/552af297-780e-2eb0-fc9d-9bad9f476482.htm" />
+  <HelpKINode Title="InitAsync method">
+    <HelpKINode Title="AsyncInitBase(T).InitAsync Method " Url="html/bc44e038-9598-8967-54b1-cb78710f281d.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg).InitAsync Method " Url="html/4aff3e81-499e-f8ae-4310-2771806518e0.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2).InitAsync Method " Url="html/f24dda3c-8ea1-9c17-0077-206a78fb3447.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3).InitAsync Method " Url="html/05534f42-05de-ec67-16f9-b67430e9f9e8.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4).InitAsync Method " Url="html/8e1f3dd1-1d48-f92c-9f21-1c21179eb2b0.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5).InitAsync Method " Url="html/09ee0272-1562-84cc-f55a-0528faba39e9.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).InitAsync Method " Url="html/c35f0b1d-c0eb-87c5-f519-b3c31f768b2f.htm" />
+    <HelpKINode Title="AsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).InitAsync Method " Url="html/cf853feb-ca5d-1884-b96e-d39d39f00ea6.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T).InitAsync Method " Url="html/54bfa5dd-9424-cca4-d54b-d0690b7d62ab.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg).InitAsync Method " Url="html/e692c3b5-ce2d-0ef2-67ac-49b891795e3c.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2).InitAsync Method " Url="html/c1d2a3fc-c070-cb51-b070-7a202a86b058.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3).InitAsync Method " Url="html/f09e832b-2ec8-d2fd-66ad-b274abe2af9d.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4).InitAsync Method " Url="html/5e485b42-2bc0-2cbd-43f3-3030dda16319.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5).InitAsync Method " Url="html/a4b57b2f-b6da-6c0a-1682-0d4ff687ddc9.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).InitAsync Method " Url="html/98205a6f-917b-7ce8-ddbe-6e53313a0a66.htm" />
+    <HelpKINode Title="CancelableAsyncInitBase(T, TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).InitAsync Method " Url="html/a49e1ea1-69f9-9cfe-c4a5-6b64412433cb.htm" />
+    <HelpKINode Title="IAsyncInit(TArg).InitAsync Method " Url="html/b71ee50a-591f-7fee-d381-970c35527f29.htm" />
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2).InitAsync Method " Url="html/2c1dd45a-c9d9-0eda-6642-4136951ad510.htm" />
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3).InitAsync Method " Url="html/f8e54dfb-84ed-a0a8-f429-3e21918be252.htm" />
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4).InitAsync Method " Url="html/b00c4a10-438f-952f-81c6-5ec52659b2d3.htm" />
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5).InitAsync Method " Url="html/b9d7b2e0-74ef-a6c3-87bf-518e97087aaa.htm" />
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).InitAsync Method " Url="html/d8a237c9-eb12-e6d5-43c3-38e15560cd7c.htm" />
+    <HelpKINode Title="IAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).InitAsync Method " Url="html/eee0a9d9-e498-1e41-4557-cf5ec785e468.htm" />
+    <HelpKINode Title="IAsyncInit.InitAsync Method " Url="html/18226c02-2410-ef44-78e0-54622a755017.htm" />
+    <HelpKINode Title="ICancelableAsyncInit(TArg).InitAsync Method " Url="html/552af297-780e-2eb0-fc9d-9bad9f476482.htm" />
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2).InitAsync Method " Url="html/60352a2d-63f4-e27e-5b08-d1bf8ef185d7.htm" />
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3).InitAsync Method " Url="html/0c437256-c715-7e98-1fd6-ba163da30a2e.htm" />
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4).InitAsync Method " Url="html/3bfb612f-07d0-a068-f44d-d739090f3db8.htm" />
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5).InitAsync Method " Url="html/77a6b373-fd4b-0943-3c74-f155951a7aff.htm" />
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6).InitAsync Method " Url="html/da37c4ac-15b4-e7a2-6c03-3d35cca9d8ba.htm" />
+    <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).InitAsync Method " Url="html/96be189f-5487-f285-add7-60d341a5cc81.htm" />
+    <HelpKINode Title="ICancelableAsyncInit.InitAsync Method " Url="html/d92aba07-7551-4ea8-85f4-c84699bf9afb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Utilities class">
+    <HelpKINode Title="Utilities Class" Url="html/e76aceff-b849-f496-24cf-dfa602a056b5.htm" />
+    <HelpKINode Title="about Utilities class" Url="html/e76aceff-b849-f496-24cf-dfa602a056b5.htm" />
+    <HelpKINode Title="methods" Url="html/67a2a56c-d202-e960-c0fd-0d2dc650afad.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Utilities.CreateInstance(Of T) method" Url="html/75a9d648-6d13-47f1-557a-64c15aab362d.htm" />
+  <HelpKINode Title="Utilities.CreateInstance&lt;T&gt; method" Url="html/75a9d648-6d13-47f1-557a-64c15aab362d.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="Version 1.0.0" Url="html/36cfab95-beaf-47fd-ac19-87eac09df6ef.htm" />
+    <HelpKINode Title="Version 1.0.2" Url="html/7b59efcb-4079-48eb-b541-ab861315aabd.htm" />
+    <HelpKINode Title="Version 1.0.3" Url="html/b0b5e317-9d49-4971-b275-d3bf9daf91d3.htm" />
+    <HelpKINode Title="Version 1.0.4" Url="html/6c1ffc09-66bb-42ad-9e4c-200f610d7c58.htm" />
+    <HelpKINode Title="Version 1.1.0" Url="html/3f0f468c-771c-419e-ae7c-4bb4280e46ae.htm" />
+    <HelpKINode Title="Version 1.2.0" Url="html/bb413c18-0796-4d73-8267-642691771441.htm" />
+    <HelpKINode Title="Version 1.3.0" Url="html/20e2825a-0524-4b57-a268-59dad12a2a48.htm" />
+    <HelpKINode Title="Version 1.4.0" Url="html/457723af-305d-4409-95d8-89b9f2e05040.htm" />
+    <HelpKINode Title="history" Url="html/402b5184-91d1-4bc0-a959-97514187d9f4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/a920d297-289f-46ea-aa8b-338f484ad83c.htm" />
+</HelpKI>

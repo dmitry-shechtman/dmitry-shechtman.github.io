@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Documentation.shfbproj" started="13/11/2015 21:12:49">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
+Searching for HTML Help 1 compiler...
+Found HTML Help 1 compiler in &#39;C:\Program Files (x86)\HTML Help Workshop\&#39;
+Locating components in the following folder(s):
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\
+    C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\
+Framework reflection data location: C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\.NETPortable
+Using presentation style &#39;VS2013&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013&#39;
+Loading and initializing plug-ins...
+Lightweight Website Style Version 2015.10.10.0
+Copyright &#169; 2006-2015, Eric Woodruff, All Rights Reserved
+Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+-------------------------------
+Clearing any prior web/markdown output...
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit\Portable.Net45\AsyncInit.Portable.Net45.csproj
+    Found project &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit\Portable.Net45\AsyncInit.Portable.Net45.csproj&#39;
+
+Parsing project files
+    Found assembly &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit\Portable.Net45\bin\Release\Ditto.AsyncInit.dll&#39;
+
+References to include (excluding framework assemblies):
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit\Portable.Net45\bin\Release\Ditto.AsyncInit.dll
+
+Copying XML comments files
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit\Portable.Net45\bin\Release\Ditto.AsyncInit.xml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Ditto.AsyncInit.xml
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+</plugIn>    Last step completed in 00:00:00.0100
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0020
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - GenerateRefInfo.proj]
+Build started 13/11/2015 21:12:50.
+Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
+PrepareForBuild:
+  Creating directory &quot;obj\Debug\&quot;.
+GenerateRefInfo:
+  MRefBuilder (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Loaded 1 assemblies for reflection and 1 dependency assemblies.
+  Wrote information on 2 namespaces, 34 types, and 89 members
+  Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
+Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\GenerateRefInfo.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53
+    Last step completed in 00:00:00.6220
+</buildStep>
+<buildStep step="TransformReflectionInfo">
+Transforming reflection output...
+[C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - TransformManifest.proj]
+Build started 13/11/2015 21:12:50.
+Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
+TransformManifest:
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
+  Copying file from &quot;reflection.xml&quot; to &quot;reflection.nofilenames&quot;.
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\AddFilenames.xsl&#39;.
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
+Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\TransformManifest.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.44
+    Last step completed in 00:00:00.5940
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.0170
+</buildStep>
+<buildStep step="CopyConceptualContent">
+Copying conceptual content...
+Copying standard token shared content file...
+Checking for other token files...
+Checking for code snippets files...
+Copying images and creating the media map file...
+Generating conceptual topic files
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\Welcome.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\Welcome.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\a920d297-289f-46ea-aa8b-338f484ad83c.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\How Tos\How Tos.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\How Tos\How Tos.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\c0f9e874-dd33-473b-a245-85fc69447a4b.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\How Tos\Installation.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\How Tos\Installation.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\2ac5864f-d7ba-4ef7-a487-77ecfc2aab3a.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\How Tos\Deriving.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\How Tos\Deriving.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\edeb370d-6d7e-4f82-adab-f2326d89c857.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\How Tos\Implementing.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\How Tos\Implementing.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\c731bb1a-010a-40c6-856b-421ebbd05a26.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\How Tos\Silverlight.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\How Tos\Silverlight.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\f175305f-89a6-498e-add6-e803be90433e.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\Miscellanea\Miscellanea.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\Miscellanea\Miscellanea.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\e4e8dc54-685e-481b-bdec-c19ffb971294.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\Miscellanea\NAG Constructor.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\Miscellanea\NAG Constructor.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\ff3a9984-a817-400e-be0d-6231ad026f50.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version History.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version History.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\402b5184-91d1-4bc0-a959-97514187d9f4.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.4.0.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.4.0.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\457723af-305d-4409-95d8-89b9f2e05040.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.3.0.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.3.0.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\20e2825a-0524-4b57-a268-59dad12a2a48.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.2.0.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.2.0.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\bb413c18-0796-4d73-8267-642691771441.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.1.0.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.1.0.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\3f0f468c-771c-419e-ae7c-4bb4280e46ae.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.0.4.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.0.4.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\6c1ffc09-66bb-42ad-9e4c-200f610d7c58.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.0.3.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.0.3.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\b0b5e317-9d49-4971-b275-d3bf9daf91d3.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.0.2.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.0.2.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\7b59efcb-4079-48eb-b541-ab861315aabd.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.0.0.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\VersionHistory\Version 1.0.0.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\36cfab95-beaf-47fd-ac19-87eac09df6ef.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\License.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Content\License.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\ddueXml\835cb0e6-3fac-4aac-ace3-db119c394b4b.xml
+    Last step completed in 00:00:00.1640
+</buildStep>
+<buildStep step="CreateConceptualTopicConfigs">
+Creating conceptual topic configuration files...
+    Companion files
+    _ContentMetadata_.xml
+    ConceptualManifest.xml
+    Last step completed in 00:00:00.0470
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\icons\Help.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\Help.png
+C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\icons\Help.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\Help.png
+    Last step completed in 00:00:00.0120
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file...
+[C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - GenerateIntermediateTOC.proj]
+Build started 13/11/2015 21:12:51.
+Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
+GenerateIntermediateTOC:
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
+Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\GenerateIntermediateTOC.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:00.1910
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    sandcastle.config
+    conceptual.config
+    Last step completed in 00:00:00.1180
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\sandcastle.config
+C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\conceptual.config
+    Removing unused ExampleComponent.
+    Last step completed in 00:00:00.0160
+</buildStep>
+<buildStep step="BuildConceptualTopics">
+Building conceptual help topics...
+[C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - BuildConceptualTopics.proj]
+Build started 13/11/2015 21:12:52.
+Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\BuildConceptualTopics.proj&quot; on node 1 (default targets).
+BuildConceptualTopics:
+  BuildAssembler (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Loading configuration...
+  Processing topics...
+  Processed 18 topic(s)
+  CopyFromIndexComponent: &quot;metadata&quot; in-memory cache entries used: 1 of 15.
+Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\BuildConceptualTopics.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.72
+    Last step completed in 00:00:01.7851
+</buildStep>
+<buildStep step="BuildReferenceTopics">
+Building reference help topics...
+[C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - BuildReferenceTopics.proj]
+Build started 13/11/2015 21:12:53.
+Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
+BuildReferenceTopics:
+  BuildAssembler (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Loading configuration...
+  Processing topics...
+  Processed 169 topic(s)
+  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 4 of 15.
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 2 of 30.
+Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\BuildReferenceTopics.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.86
+    Last step completed in 00:00:07.9335
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+    Last step completed in 00:00:00.0070
+</buildStep>
+<buildStep step="ExtractingHtmlInfo">
+Extracting HTML info for HTML Help 1 and/or website...
+[C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - ExtractHtmlInfo.proj]
+Sandcastle Help File Builder and Tools, version 2015.10.10.0
+Copyright c 2006-2015, Eric Woodruff, All Rights Reserved
+E-Mail: Eric@EWoodruff.us
+
+Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
+
+Processing Help 1 files in C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1
+Processed 187 HTML files
+Sorting keywords and generating See Also indices
+Saving HTML Help 1 keyword index to C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\AsyncInit.hhk
+Saving HTML Help 1 table of contents to C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\AsyncInit.hhc
+
+Processing website files in C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website
+Processed 187 HTML files
+Sorting keywords and generating See Also indices
+Saving website keyword index to C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\WebKI.xml
+Saving website table of contents to C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\WebTOC.xml
+    Last step completed in 00:00:01.2800
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertCaution.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\AlertCaution.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertNote.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\AlertNote.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertSecurity.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\AlertSecurity.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CFW.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\CFW.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CodeExample.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\CodeExample.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\favicon.ico -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\favicon.ico
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privclass.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\privclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\privdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\privenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privevent.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\privevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privextension.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\privextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privfield.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\privfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privinterface.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\privinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privmethod.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\privmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privproperty.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\privproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privstructure.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\privstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protclass.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\protclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\protdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\protenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protevent.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\protevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protextension.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\protextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protfield.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\protfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protinterface.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\protinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protmethod.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\protmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protoperator.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\protoperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protproperty.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\protproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protstructure.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\protstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubclass.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\pubclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\pubdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\pubenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubevent.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\pubevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubextension.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\pubextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubfield.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\pubfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\pubinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\pubmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\puboperator.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\puboperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\pubproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\pubstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionCollapsed.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\SectionCollapsed.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionExpanded.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\SectionExpanded.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\slMobile.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\slMobile.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\static.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\static.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\xna.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\icons\xna.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\scripts\branding.js -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\scripts\branding.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-cs-CZ.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-de-DE.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-en-US.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-es-ES.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-fr-FR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help1.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-Help1.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-HelpViewer.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-HelpViewer.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-it-IT.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-ja-JP.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-ko-KR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-pl-PL.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-pt-BR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-ru-RU.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-tr-TR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Website.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-Website.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-zh-CN.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-zh-TW.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\styles\branding.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertCaution.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\AlertCaution.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertNote.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\AlertNote.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertSecurity.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\AlertSecurity.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CFW.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\CFW.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CodeExample.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\CodeExample.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\favicon.ico -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\favicon.ico
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privclass.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\privclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\privdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\privenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privevent.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\privevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privextension.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\privextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privfield.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\privfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privinterface.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\privinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privmethod.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\privmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privproperty.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\privproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privstructure.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\privstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protclass.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\protclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\protdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\protenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protevent.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\protevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protextension.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\protextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protfield.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\protfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protinterface.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\protinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protmethod.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\protmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protoperator.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\protoperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protproperty.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\protproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protstructure.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\protstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubclass.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\pubclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\pubdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\pubenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubevent.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\pubevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubextension.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\pubextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubfield.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\pubfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\pubinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\pubmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\puboperator.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\puboperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\pubproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\pubstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionCollapsed.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\SectionCollapsed.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionExpanded.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\SectionExpanded.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\slMobile.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\slMobile.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\static.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\static.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\xna.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\xna.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\scripts\branding.js -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\scripts\branding.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-cs-CZ.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-de-DE.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-en-US.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-es-ES.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-fr-FR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help1.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-Help1.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-HelpViewer.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-HelpViewer.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-it-IT.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-ja-JP.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-ko-KR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-pl-PL.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-pt-BR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-ru-RU.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-tr-TR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Website.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-Website.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-zh-CN.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding-zh-TW.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\styles\branding.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\index.html -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\index.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\search.html -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\search.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.aspx -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\SearchHelp.aspx
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.inc.php -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\SearchHelp.inc.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.php -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\SearchHelp.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\Web.Config -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\Web.Config
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\Search.png -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\Search.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocClose.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\TocClose.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocCollapsed.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\TocCollapsed.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocExpanded.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\TocExpanded.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\icons\TocOpen.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\scripts\branding-Website.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
+    Last step completed in 00:00:00.8886
+</buildStep>
+<buildStep step="GenerateHelpFormatTableOfContents">
+Generating HTML Help 1 table of contents file...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateHelpFileIndex">
+Generating HTML Help 1 index file...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateHelpProject">
+Generating HTML Help 1 project file...
+    Last step completed in 00:00:00.0156
+</buildStep>
+<buildStep step="CompilingHelpFile">
+Compiling HTML Help 1 file...
+[C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - Build1xHelpFile.proj]
+  Microsoft HTML Help Compiler 4.74.8702
+  
+  
+  
+  Compiling c:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\AsyncInit.chm
+  
+  
+  
+  
+  
+  Compile time: 0 minutes, 1 second
+  
+  189	Topics
+  
+  2,378	Local links
+  
+  663	Internet links
+  
+  0	Graphics
+  
+  
+  
+  
+  
+  Created c:\Users\Dmitry\Documents\GitHub\AsyncInit\Documentation\Help\Working\Output\HtmlHelp1\AsyncInit.chm, 317,913 bytes
+  
+  Compression decreased file by 1,734,450 bytes.
+  
+    Last step completed in 00:00:01.7616
+</buildStep>
+<buildStep step="GenerateHelpFormatTableOfContents">
+Generating website table of contents file...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateFullTextIndex">
+Generating full-text index for the website...
+
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+Adding lightweight search and TOC elements to each topic...
+</plugIn>    Last step completed in 00:00:02.9660
+</buildStep>
+<buildStep step="CopyingWebsiteFiles">
+Copying website files to output folder...
+
+Copied 374 files for the website content
+    Last step completed in 00:00:00.5304
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:00.4056
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 13/11/2015 21:13:09.  Total time: 00:00:20.0746
+
+</buildStep>
+</shfbBuild>
