@@ -602,6 +602,7 @@
     <HelpKINode Title="ICancelableAsyncInit(TArg1, TArg2, TArg3, TArg4, TArg5, TArg6, TArg7).InitAsync Method " Url="html/96be189f-5487-f285-add7-60d341a5cc81.htm" />
     <HelpKINode Title="ICancelableAsyncInit.InitAsync Method " Url="html/d92aba07-7551-4ea8-85f4-c84699bf9afb.htm" />
   </HelpKINode>
+  <HelpKINode Title="license" Url="html/835cb0e6-3fac-4aac-ace3-db119c394b4b.htm" />
   <HelpKINode Title="Utilities class">
     <HelpKINode Title="Utilities Class" Url="html/e76aceff-b849-f496-24cf-dfa602a056b5.htm" />
     <HelpKINode Title="about Utilities class" Url="html/e76aceff-b849-f496-24cf-dfa602a056b5.htm" />
@@ -618,6 +619,8 @@
     <HelpKINode Title="Version 1.2.0" Url="html/bb413c18-0796-4d73-8267-642691771441.htm" />
     <HelpKINode Title="Version 1.3.0" Url="html/20e2825a-0524-4b57-a268-59dad12a2a48.htm" />
     <HelpKINode Title="Version 1.4.0" Url="html/457723af-305d-4409-95d8-89b9f2e05040.htm" />
+    <HelpKINode Title="Version 1.4.1" Url="html/4b1aeb26-3c84-4311-97d4-debfa1862a10.htm" />
+    <HelpKINode Title="Version 1.4.2" Url="html/3899d6a1-b947-42bb-8730-47ee00d66654.htm" />
     <HelpKINode Title="history" Url="html/402b5184-91d1-4bc0-a959-97514187d9f4.htm" />
   </HelpKINode>
   <HelpKINode Title="Welcome" Url="html/a920d297-289f-46ea-aa8b-338f484ad83c.htm" />
