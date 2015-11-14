@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Documentation.shfbproj" started="14/11/2015 01:43:41">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Documentation.shfbproj" started="14/11/2015 02:14:43">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -40,12 +40,12 @@ Generating shared content files (en-US, English (United States))...
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0040
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - GenerateRefInfo.proj]
-Build started 14/11/2015 01:43:42.
+Build started 14/11/2015 02:14:43.
 Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -64,13 +64,13 @@ Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit
 
 Build succeeded.
 
-Time Elapsed 00:00:00.47
-    Last step completed in 00:00:00.5540
+Time Elapsed 00:00:00.55
+    Last step completed in 00:00:00.6370
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - TransformManifest.proj]
-Build started 14/11/2015 01:43:42.
+Build started 14/11/2015 02:14:44.
 Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2015.10.10.0)
@@ -91,11 +91,11 @@ Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit
 Build succeeded.
 
 Time Elapsed 00:00:00.37
-    Last step completed in 00:00:00.4340
+    Last step completed in 00:00:00.4390
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.0090
+    Last step completed in 00:00:00.0140
 </buildStep>
 <buildStep step="CopyConceptualContent">
 Copying conceptual content...
@@ -108,6 +108,8 @@ Generating conceptual topic files
     C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Content\Welcome.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\ddueXml\65bb1336-f090-4770-b419-79bc13cde6dd.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Content\VersionHistory\VersionHistory.aml&#39;
     C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Content\VersionHistory\VersionHistory.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\ddueXml\05284ed6-03e8-4665-8764-558ec49bc42e.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Content\VersionHistory\Version 1.4.1.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Content\VersionHistory\Version 1.4.1.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\ddueXml\8596ecfd-4163-4216-a724-cc048aadd7b3.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Content\VersionHistory\Version 1.4.0.aml&#39;
     C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Content\VersionHistory\Version 1.4.0.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\ddueXml\3e003ba2-a2b9-42d0-b5a1-e9c942d400a2.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Content\VersionHistory\Version 1.2.0.aml&#39;
@@ -118,14 +120,14 @@ Generating conceptual topic files
     C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Content\VersionHistory\Version 1.0.0.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\ddueXml\6ea422c5-1842-4076-9008-e01be3f076ea.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Content\License.aml&#39;
     C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Content\License.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\ddueXml\7bf9f2f5-216e-4bba-92e2-e113ddc0cc2f.xml
-    Last step completed in 00:00:00.0880
+    Last step completed in 00:00:00.0870
 </buildStep>
 <buildStep step="CreateConceptualTopicConfigs">
 Creating conceptual topic configuration files...
     Companion files
     _ContentMetadata_.xml
     ConceptualManifest.xml
-    Last step completed in 00:00:00.0200
+    Last step completed in 00:00:00.0170
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
@@ -140,7 +142,7 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started 14/11/2015 01:43:43.
+Build started 14/11/2015 02:14:45.
 Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2015.10.10.0)
@@ -151,27 +153,27 @@ Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit
 
 Build succeeded.
 
-Time Elapsed 00:00:00.09
+Time Elapsed 00:00:00.10
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.1630
+    Last step completed in 00:00:00.1710
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
     conceptual.config
-    Last step completed in 00:00:00.1280
+    Last step completed in 00:00:00.1360
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
 C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\sandcastle.config
 C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\conceptual.config
     Removing unused ExampleComponent.
-    Last step completed in 00:00:00.0170
+    Last step completed in 00:00:00.0230
 </buildStep>
 <buildStep step="BuildConceptualTopics">
 Building conceptual help topics...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - BuildConceptualTopics.proj]
-Build started 14/11/2015 01:43:43.
+Build started 14/11/2015 02:14:45.
 Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\BuildConceptualTopics.proj&quot; on node 1 (default targets).
 BuildConceptualTopics:
   BuildAssembler (v2015.10.10.0)
@@ -179,19 +181,19 @@ BuildConceptualTopics:
   Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-  Processed 7 topic(s)
+  Processed 8 topic(s)
   CopyFromIndexComponent: &quot;metadata&quot; in-memory cache entries used: 1 of 15.
 Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\BuildConceptualTopics.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.55
-    Last step completed in 00:00:01.6111
+Time Elapsed 00:00:01.66
+    Last step completed in 00:00:01.7301
 </buildStep>
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - BuildReferenceTopics.proj]
-Build started 14/11/2015 01:43:45.
+Build started 14/11/2015 02:14:47.
 Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
 BuildReferenceTopics:
   BuildAssembler (v2015.10.10.0)
@@ -211,12 +213,12 @@ Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit
 
 Build succeeded.
 
-Time Elapsed 00:00:04.60
-    Last step completed in 00:00:04.6733
+Time Elapsed 00:00:04.65
+    Last step completed in 00:00:04.7223
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.0070
+    Last step completed in 00:00:00.0080
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -228,17 +230,17 @@ E-Mail: Eric@EWoodruff.us
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
 Processing Help 1 files in C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\Output\HtmlHelp1
-Processed 70 HTML files
+Processed 71 HTML files
 Sorting keywords and generating See Also indices
 Saving HTML Help 1 keyword index to C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\AsyncInit.Services.hhk
 Saving HTML Help 1 table of contents to C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\AsyncInit.Services.hhc
 
 Processing website files in C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\Output\Website
-Processed 70 HTML files
+Processed 71 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\WebKI.xml
 Saving website table of contents to C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\WebTOC.xml
-    Last step completed in 00:00:00.6030
+    Last step completed in 00:00:00.5350
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -379,11 +381,11 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\Output\Website\icons\TocOpen.gif
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:01.1101
+    Last step completed in 00:00:00.9911
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating HTML Help 1 table of contents file...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateHelpFileIndex">
 Generating HTML Help 1 index file...
@@ -391,7 +393,7 @@ Generating HTML Help 1 index file...
 </buildStep>
 <buildStep step="GenerateHelpProject">
 Generating HTML Help 1 project file...
-    Last step completed in 00:00:00.0040
+    Last step completed in 00:00:00.0030
 </buildStep>
 <buildStep step="CompilingHelpFile">
 Compiling HTML Help 1 file...
@@ -408,9 +410,9 @@ Compiling HTML Help 1 file...
   
   Compile time: 0 minutes, 0 seconds
   
-  72	Topics
+  73	Topics
   
-  753	Local links
+  761	Local links
   
   221	Internet links
   
@@ -420,36 +422,36 @@ Compiling HTML Help 1 file...
   
   
   
-  Created c:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\Output\HtmlHelp1\AsyncInit.Services.chm, 158,169 bytes
+  Created c:\Users\Dmitry\Documents\GitHub\AsyncInit\AsyncInit.Services\Documentation\Help\Working\Output\HtmlHelp1\AsyncInit.Services.chm, 157,871 bytes
   
-  Compression decreased file by 592,365 bytes.
+  Compression decreased file by 596,816 bytes.
   
-    Last step completed in 00:00:00.8020
+    Last step completed in 00:00:00.8090
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:01.3581
+</plugIn>    Last step completed in 00:00:01.1411
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
-Copied 199 files for the website content
-    Last step completed in 00:00:00.3490
+Copied 200 files for the website content
+    Last step completed in 00:00:00.3820
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.2630
+    Last step completed in 00:00:00.2130
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 14/11/2015 01:43:54.  Total time: 00:00:12.7297
+Build completed successfully at 14/11/2015 02:14:55.  Total time: 00:00:12.6047
 
 </buildStep>
 </shfbBuild>
