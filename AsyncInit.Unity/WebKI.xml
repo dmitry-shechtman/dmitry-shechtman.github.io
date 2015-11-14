@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Ditto.AsyncInit.Unity namespace" Url="html/b98bfd5b-091a-3743-2013-469e2a674f39.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.Unity.UnityIsAsyncTypeRegisteredExtensions class" Url="html/9b00a14c-deca-47e9-fd8a-f2261ec6b91c.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.Unity.UnityRegisterAsyncTypeExtensions class" Url="html/ce78c22c-103d-5e64-9ce4-d7c59686aa83.htm" />
+  <HelpKINode Title="Ditto.AsyncInit.Unity.UnityResolveAsyncTypeExtensions class" Url="html/46f395ba-f9ae-7898-b424-ae502374eb6a.htm" />
+  <HelpKINode Title="howto">
+    <HelpKINode Title="Unity Container Async Extensions How Tos" Url="html/8e58cf79-69c3-4993-bc6a-6209cb35cc0a.htm" />
+    <HelpKINode Title="installation,install" Url="html/b078ce3f-f7cc-41ee-a8fb-0dd91b1b7568.htm" />
+    <HelpKINode Title="querying,query" Url="html/6f316ae1-44bb-4773-975b-aac2f5a50c49.htm" />
+    <HelpKINode Title="registration,register,mapping" Url="html/773158a0-bea9-482f-b8ac-9670797b0da5.htm" />
+    <HelpKINode Title="registration,register,type" Url="html/30e16988-88d9-400d-bf76-21885513e5df.htm" />
+    <HelpKINode Title="resolution,resolve" Url="html/0432922d-9355-47b5-87f0-28feede0474d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsAsyncTypeRegistered method" Url="html/a0cca9cf-1105-81a6-48dc-61d740f57e0b.htm" />
+  <HelpKINode Title="license" Url="html/fb08e01a-e83f-43ed-8ff2-ca8ec3ba3fbe.htm" />
+  <HelpKINode Title="RegisterAsyncType method" Url="html/dde97cec-c8e4-2396-274e-0f4861691c14.htm" />
+  <HelpKINode Title="ResolveAsync method" Url="html/d5c01b99-1826-a29d-5b12-28fec0a9155d.htm" />
+  <HelpKINode Title="UnityIsAsyncTypeRegisteredExtensions class">
+    <HelpKINode Title="UnityIsAsyncTypeRegisteredExtensions Class" Url="html/9b00a14c-deca-47e9-fd8a-f2261ec6b91c.htm" />
+    <HelpKINode Title="about UnityIsAsyncTypeRegisteredExtensions class" Url="html/9b00a14c-deca-47e9-fd8a-f2261ec6b91c.htm" />
+    <HelpKINode Title="methods" Url="html/b0e938b3-34fc-d2ab-3f6b-e5b6cf5a4aa2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnityIsAsyncTypeRegisteredExtensions.IsAsyncTypeRegistered method" Url="html/a0cca9cf-1105-81a6-48dc-61d740f57e0b.htm" />
+  <HelpKINode Title="UnityRegisterAsyncTypeExtensions class">
+    <HelpKINode Title="UnityRegisterAsyncTypeExtensions Class" Url="html/ce78c22c-103d-5e64-9ce4-d7c59686aa83.htm" />
+    <HelpKINode Title="about UnityRegisterAsyncTypeExtensions class" Url="html/ce78c22c-103d-5e64-9ce4-d7c59686aa83.htm" />
+    <HelpKINode Title="methods" Url="html/82170708-6609-818a-bbfb-edff3916d744.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnityRegisterAsyncTypeExtensions.RegisterAsyncType method" Url="html/dde97cec-c8e4-2396-274e-0f4861691c14.htm" />
+  <HelpKINode Title="UnityResolveAsyncTypeExtensions class">
+    <HelpKINode Title="UnityResolveAsyncTypeExtensions Class" Url="html/46f395ba-f9ae-7898-b424-ae502374eb6a.htm" />
+    <HelpKINode Title="about UnityResolveAsyncTypeExtensions class" Url="html/46f395ba-f9ae-7898-b424-ae502374eb6a.htm" />
+    <HelpKINode Title="methods" Url="html/293f1786-5612-e111-054e-bac1eba65bcd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnityResolveAsyncTypeExtensions.ResolveAsync method" Url="html/d5c01b99-1826-a29d-5b12-28fec0a9155d.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="Version 1.0.0" Url="html/b48688e3-e650-4382-8f0d-76226f2eb89f.htm" />
+    <HelpKINode Title="Version 1.1.0" Url="html/030320a2-7cc3-4e06-9ce4-357a82315d25.htm" />
+    <HelpKINode Title="Version 1.1.1" Url="html/47a5588e-268e-45d4-bd0a-828c3fa52ab8.htm" />
+    <HelpKINode Title="Version 1.2.0" Url="html/2ac61916-0fdf-45bd-a3ff-be580ff7c9c6.htm" />
+    <HelpKINode Title="Version 1.4.0" Url="html/5c80623b-72bd-4c67-9c95-7b327faaa5de.htm" />
+    <HelpKINode Title="history" Url="html/0caa88a8-58e0-444e-866c-2332ddb7b5d9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/53f4a63d-6a7e-45d8-b0da-060bc7f17ced.htm" />
+</HelpKI>
